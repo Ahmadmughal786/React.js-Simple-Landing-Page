@@ -1,0 +1,83 @@
+.props_intro{
+    color:  rgb(255, 155, 62);
+     font-family: Caveat, cursive;
+     font-size: 20px;
+     line-height: 25px;
+     font-weight: 600;
+  }
+.props_heading{
+
+  color: rgb(0, 0, 0);
+  font-family: "Circular Std", sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+  padding: 24px;
+  width: 90%;
+  margin: auto;
+}
+.sec1{
+
+  background-color: #FFFFFF;
+   padding-top: 15px;
+}
+.light_props_heading{
+  color:  grey;
+  line-height: 32px;
+  font-family:  Inter, sans-serif;
+  font-size: 13px;
+  width: 52% ;
+  margin-left: 21%;
+  
+ 
+}
+.banner{
+  width: 70%;
+  padding: 40px;
+
+}
+.video{
+  width: 60%;
+  height: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 700px)  {
+  .img_item {
+   display: block;
+  }
+
+}
+@media only screen and (max-width: 700px) and (min-width: 500px)
+{
+
+ .img_items{
+
+   display: block;
+ }
+
+ 
+}
+
+@media only screen and (max-width: 500px) and (min-width: 300px)
+{
+
+ .img_items{
+
+   display: block;
+ }
+ 
+
+ /* .Uper_section{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+
+ } */
+
+
+}
