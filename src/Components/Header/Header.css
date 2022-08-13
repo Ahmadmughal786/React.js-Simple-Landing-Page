@@ -1,0 +1,90 @@
+.bg_div
+{ 
+  width: auto;
+  height: auto;
+}
+.Uper_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+  }
+  .Lower_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: red;
+  }
+ .logo_img{
+
+  width: 32px;
+ }
+.logo{
+    color: #FFFFFF;
+    font-size: 100px "Circular Std", sans-serif;
+    justify-content: right;
+    display: flex;
+    margin-left: 2px;
+}
+.logo_heading{
+    font-size: 15px;
+    font-family:  Inter, sans-serif;
+    font-weight: bold;
+     margin-top: 7px;
+     padding: 10px;
+     color: rgb(255, 255, 255);
+   
+  }
+.nav_bar{
+    display: flex;
+    margin-top: 19px;
+    
+  }
+.nav_between{
+
+
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 15px;
+    font-family:Inter, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+.nav_button{
+    color :rgb(176, 47, 116);
+    background-color: #FFFFFF;
+    padding: 8px 15px;
+    font-size: 13px  ; 
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: Inter, sans-serif;
+    border: none;
+    line-height: 24px;
+   
+  }
+  
+
+/* 
+@media only screen and (max-width: 500px) and (min-width: 300px)
+{
+
+ .img_items{
+
+   display: block;
+ }
+ 
+
+ .Uper_section{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+
+ } 
+
+
+}
+
+   */
